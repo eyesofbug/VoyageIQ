@@ -1,34 +1,36 @@
 #!/bin/bash
 
-# VoyageIQ - GitHub Push Automation Script
-# This script handles the username and repository override.
+# VoyageIQ - Ultimate GitHub Push Script
+# This version handles conflicts and permission overrides.
 
-echo "🚀 VoyageIQ - GitHub Automation"
-echo "--------------------------------"
+echo "🚀 VoyageIQ - Final Phase: GitHub Upload"
+echo "----------------------------------------"
 
-# Ask for the user's GitHub username
-read -p "Enter your GitHub Username (e.g., eyesofbug): " GH_USER
+# 1. Get Details
+read -p "Enter your GitHub Username: " GH_USER
+read -p "Enter your Repository Name [VoyageIQ]: " REPO_NAME
+REPO_NAME=${REPO_NAME:-"VoyageIQ"}
 
-# Ask for the repository name (Default to VoyageIQ-)
-read -p "Enter your Repository Name [VoyageIQ-]: " REPO_NAME
-REPO_NAME=${REPO_NAME:-"VoyageIQ-"}
-
-echo "📍 Setting remote origin to: github.com/${GH_USER}/${REPO_NAME}.git"
+# 2. Fix Remote URL
+echo "📍 Setting target to: github.com/${GH_USER}/${REPO_NAME}.git"
 git remote set-url origin "https://${GH_USER}@github.com/${GH_USER}/${REPO_NAME}.git"
 
-echo "📦 Syncing latest changes..."
+# 3. Add & Commit everything
+echo "📦 Packing all 16 files..."
 git add .
-git commit -m "VoyageIQ Mega-Logic Suite & Real Data - Final Sync"
+git commit -m "Complete VoyageIQ Project - Final Version" --allow-empty
 
-echo "⬆️ Pushing to GitHub..."
-echo "⚠️ IMPORTANT: When it asks for your Password, PASTE your GitHub 'Personal Access Token' instead."
-echo "   (GitHub no longer accepts normal passwords for terminal pushes)"
-echo "--------------------------------"
+# 4. The Force Push (The "Nuclear Option" for new repos)
+echo "⬆️ Pushing to GitHub (Overwriting remote conflicts)..."
+echo "⚠️ IMPORTANT: When it asks for Password, PASTE your 'Personal Access Token'."
+echo "----------------------------------------"
 
-git push -u origin main
+git push -u origin main --force
 
 if [ $? -eq 0 ]; then
-    echo "✅ Success! All 16 files are now live on https://github.com/${GH_USER}/${REPO_NAME}"
+    echo "✅ SUCCESS! Your project is live at: https://github.com/${GH_USER}/${REPO_NAME}"
+    echo "   (Refresh your browser to see all 16 files)"
 else
-    echo "❌ Push failed. Ensure the repository exists on GitHub.com first!"
+    echo "❌ Error: Authentication failed or Repository doesn't exist."
+    echo "   Make sure you created a repo named '$REPO_NAME' on GitHub first!"
 fi
