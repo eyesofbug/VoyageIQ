@@ -152,7 +152,10 @@ if btn_calculate:
         
         with t1:
             for day in itinerary:
-                with st.expander(f"Day {day['day']}: {day['area']} Exploration", expanded=True):
+                title = f"Day {day['day']}: {day['area']} Exploration"
+                with st.expander(title, expanded=True):
+                    if 'transit_info' in day:
+                        st.markdown(f"***{day['transit_info']}***")
                     for slot in day['activities']:
                         icon = "🍱" if slot.get('is_meal') else "📍"
                         opt_badge = "✅ (Budget Optimized)" if slot.get('optimized') else ""

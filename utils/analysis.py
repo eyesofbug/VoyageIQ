@@ -214,22 +214,32 @@ def generate_itinerary(destination, interests, pace, days, group_type="Solo"):
         
         # If we run out of new items in this area, try other areas for this day
         if len(available_in_area) < target_count:
-            # TRY ANY OTHER UNUSED ACTIVITY IN THE WHOLE CITY/POOL
             unused_in_pool = pool[~pool['name'].isin(used_activities)]
             if not unused_in_pool.empty:
-                # Pick the best ones from the remaining pool regardless of area
                 available_in_area = unused_in_pool
             else:
-                # Total fallback if we literally saw everything
                 available_in_area = pool[pool['area'] == area]
             
-        # Shuffle results for this day to avoid same top-items every time
         acts_samples = available_in_area.to_dict('records')
-        # We don't shuffle too much here to preserve some popularity ranking, 
-        # but let's take the top candidates and shuffle them
-        top_candidates = acts_samples[:max(target_count, len(acts_samples))]
-        random.shuffle(top_candidates)
-        acts = top_candidates[:target_count]
+        top_candidates = acts_samples[:max(target_count*2, len(acts_samples))] # Get more candidates to route
+        
+        # --- GEOGRAPHIC ROUTING (TSP - NEAREST NEIGHBOR) ---
+        # Pick the most popular one as starting point
+        current_selection = []
+        if top_candidates:
+            # Start with the highest popularity one from top candidates
+            first = top_candidates.pop(0)
+            current_selection.append(first)
+            
+            while len(current_selection) < target_count and top_candidates:
+                last = current_selection[-1]
+                # Find nearest to 'last'
+                top_candidates.sort(key=lambda x: calculate_haversine_distance(
+                    last['latitude'], last['longitude'], x['latitude'], x['longitude']
+                ))
+                current_selection.append(top_candidates.pop(0))
+        
+        acts = current_selection
         
         day_acts = []
         for idx, a in enumerate(acts):
@@ -248,22 +258,39 @@ def generate_itinerary(destination, interests, pace, days, group_type="Solo"):
 # --- BUDGET OPTIMIZATION LOGIC ---
 def optimize_budget_swaps(itinerary, user_budget, per_item_limit, destination):
     pool = ATTRACTIONS[ATTRACTIONS['city'] == destination]
+    if pool.empty: pool = ATTRACTIONS[ATTRACTIONS['state'] == destination]
+    
     swaps = []
     new_itinerary = []
+    
     for day in itinerary:
         new_acts = []
+        day_swaps = 0
         for act in day['activities']:
-            if act.get('cost', 0) > per_item_limit:
-                cheaper = pool[(pool['avg_cost_per_person'] < per_item_limit) & (pool['popularity_score'] > 80)]
-                if not cheaper.empty:
-                    alt = cheaper.sort_values('popularity_score', ascending=False).iloc[0]
-                    swaps.append(f"Day {day['day']}: {act['activity']} → {alt['name']} (Saved ₹{int(act['cost']-alt['avg_cost_per_person'])})")
-                    new_acts.append({
-                        "time": act['time'], "activity": alt['name'], "cost": alt['avg_cost_per_person'], 
-                        "duration": alt['avg_time_hours'], "optimized": True, "lat": alt['latitude'], "lon": alt['longitude']
-                    })
-                    continue
-            new_acts.append(act)
+            # If it's a meal or under limit, keep it
+            if act.get('is_meal') or act.get('cost', 0) <= per_item_limit or day_swaps >= 2:
+                new_acts.append(act)
+                continue
+            
+            # Find cheaper alternatives with matching tags
+            orig_tags = set(ATTRACTIONS[ATTRACTIONS['name'] == act['activity']].iloc[0]['tags']) if act['activity'] in ATTRACTIONS['name'].values else set()
+            
+            cheaper = pool[(pool['avg_cost_per_person'] < act['cost']) & (pool['avg_cost_per_person'] <= per_item_limit)]
+            if not cheaper.empty and orig_tags:
+                # Use a combined score of popularity and tag matching
+                cheaper = cheaper.copy()
+                cheaper['match_score'] = cheaper['tags'].apply(lambda t: len(set(t) & orig_tags))
+                cheaper = cheaper.sort_values(['match_score', 'popularity_score'], ascending=False)
+                
+                alt = cheaper.iloc[0]
+                swaps.append(f"Day {day['day']}: {act['activity']} → {alt['name']} (Saved ₹{int(act['cost']-alt['avg_cost_per_person'])})")
+                new_acts.append({
+                    "time": act['time'], "activity": alt['name'], "cost": alt['avg_cost_per_person'], 
+                    "duration": alt['avg_time_hours'], "optimized": True, "lat": alt['latitude'], "lon": alt['longitude']
+                })
+                day_swaps += 1
+            else:
+                new_acts.append(act)
         new_itinerary.append({"day": day['day'], "area": day['area'], "activities": new_acts})
     return new_itinerary, swaps
 
@@ -282,19 +309,46 @@ def inject_meal_slots(itinerary):
 
 # --- MULTI-CITY LOGIC ---
 def generate_multi_city_itinerary(dest_list, days, interests, pace, group_type):
-    # Simplistic split for now: approx half days each
     itinerary = []
     days_per_city = days // len(dest_list)
     remaining = days % len(dest_list)
     
+    # Generic Inter-city speeds: 60 km/h
     current_day = 1
+    
     for i, city in enumerate(dest_list):
         d_count = days_per_city + (1 if i < remaining else 0)
-        city_itin = generate_itinerary(city, interests, pace, d_count, group_type)
+        
+        # Calculate transition if not first city
+        if i > 0:
+            prev_city = dest_list[i-1]
+            # Try to get coordinates for transit estimation (simulated check)
+            # For now we use the first attraction of each city as proxy
+            prev_pool = ATTRACTIONS[ATTRACTIONS['city'] == prev_city]
+            curr_pool = ATTRACTIONS[ATTRACTIONS['city'] == city]
+            
+            if not prev_pool.empty and not curr_pool.empty:
+                dist = calculate_haversine_distance(
+                    prev_pool.iloc[0]['latitude'], prev_pool.iloc[0]['longitude'],
+                    curr_pool.iloc[0]['latitude'], curr_pool.iloc[0]['longitude']
+                )
+                travel_h = round(dist / 60, 1)
+                transit_note = f"✈️ Transit: {prev_city} → {city} ({int(dist)}km, ~{travel_h}h)"
+            else:
+                transit_note = f"🚗 Transit: {prev_city} → {city}"
+            
+            # Inject transit into the first day of the new city
+            city_itin = generate_itinerary(city, interests, pace, d_count, group_type)
+            if city_itin:
+                city_itin[0]['transit_info'] = transit_note
+        else:
+            city_itin = generate_itinerary(city, interests, pace, d_count, group_type)
+
         for d in city_itin:
             d['day'] = current_day
             current_day += 1
         itinerary.extend(city_itin)
+        
     return itinerary
 
 def estimate_risk_factors(destination, month):
