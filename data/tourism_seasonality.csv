@@ -1,0 +1,13 @@
+state,peak_months,off_months,peak_multiplier,off_multiplier
+Kerala,"Dec,Jan,Oct,Nov","Jun,Jul",1.4,0.85
+Goa,"Nov,Dec,Jan,Feb","Jun,Jul",1.5,0.8
+Rajasthan,"Oct,Nov,Dec,Jan,Feb,Mar","May,Jun",1.5,0.8
+Uttarakhand,"May,Jun,Sep,Oct","Jan,Feb",1.4,0.85
+Himachal Pradesh,"May,Jun,Sep,Oct","Jan,Feb",1.4,0.85
+Tamil Nadu,"Apr,May,Jun","Dec,Jan",1.3,0.9
+Karnataka,"Oct,Nov,Dec,Jan","Jul,Aug",1.3,0.9
+Maharashtra,"Oct,Nov,Dec,Jan","Jun,Jul",1.3,0.9
+Sikkim,"Apr,May,Oct,Nov","Jan,Feb",1.5,0.8
+Meghalaya,"Mar,Apr,May,Jun","Nov,Dec",1.4,0.85
+Uttar Pradesh,"Oct,Nov,Dec,Jan,Feb","May,Jun",1.4,0.85
+Delhi,"Oct,Nov,Dec,Jan,Feb","May,Jun",1.3,0.9

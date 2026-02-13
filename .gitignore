@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.DS_Store
+.streamlit/
+data/*.json
+data/*.csv
+!data/transport_vehicles.json
+!data/tourism_seasonality.csv
+!data/attractions_india.json
+!data/hotel_prices_by_city.json
+!data/tourism_stats_india.csv

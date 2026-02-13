@@ -1,0 +1,3628 @@
+[
+    {
+        "id": "ind_000",
+        "name": "Eravikulam National Park",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.0534,
+        "longitude": 77.0365,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_001",
+        "name": "Mattupetty Dam",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.107,
+        "longitude": 77.1082,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_002",
+        "name": "Tea Museum",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.1011,
+        "longitude": 77.0365,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_003",
+        "name": "Echo Point",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.1313,
+        "longitude": 77.0175,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_004",
+        "name": "Anamudi Peak",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.0719,
+        "longitude": 77.1065,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_005",
+        "name": "Attukal Waterfalls",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.1354,
+        "longitude": 77.0395,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_006",
+        "name": "Pothamedu View Point",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.1318,
+        "longitude": 77.0928,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_007",
+        "name": "Lockhart Gap",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.05,
+        "longitude": 77.0716,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_008",
+        "name": "Chithirapuram",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.1194,
+        "longitude": 77.0815,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_009",
+        "name": "Devikulam",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.1386,
+        "longitude": 77.043,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_010",
+        "name": "Nyayamakad Falls",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.085,
+        "longitude": 77.0139,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_011",
+        "name": "Kundala Lake",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.0677,
+        "longitude": 77.0957,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_012",
+        "name": "Top Station",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.0777,
+        "longitude": 77.039,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_013",
+        "name": "Marayoor Sandalwood Forest",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.0845,
+        "longitude": 77.0786,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_014",
+        "name": "Meesapulimala",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 10.1059,
+        "longitude": 77.0145,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_015",
+        "name": "Fort Kochi",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9763,
+        "longitude": 76.2166,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_016",
+        "name": "Mattancherry Palace",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9355,
+        "longitude": 76.1969,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_017",
+        "name": "Jewish Synagogue",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.958,
+        "longitude": 76.2231,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_018",
+        "name": "Chinese Fishing Nets",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9843,
+        "longitude": 76.2921,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_019",
+        "name": "Marine Drive",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9847,
+        "longitude": 76.2696,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_020",
+        "name": "Bolgatty Palace",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 10.0007,
+        "longitude": 76.1929,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_021",
+        "name": "Willingdon Island",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9534,
+        "longitude": 76.2644,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_022",
+        "name": "Cherai Beach",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9983,
+        "longitude": 76.2746,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_023",
+        "name": "Hill Palace Museum",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9514,
+        "longitude": 76.2634,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_024",
+        "name": "Santa Cruz Basilica",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9857,
+        "longitude": 76.2055,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_025",
+        "name": "St. Francis Church",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9761,
+        "longitude": 76.2242,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_026",
+        "name": "Mangalavanam Bird Sanctuary",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9488,
+        "longitude": 76.2523,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_027",
+        "name": "Wonderla Kochi",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9654,
+        "longitude": 76.2571,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_028",
+        "name": "Lulu Mall",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9215,
+        "longitude": 76.251,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_029",
+        "name": "Athirappilly Falls Day Trip",
+        "state": "Kerala",
+        "city": "Kochi",
+        "area": "Kochi",
+        "latitude": 9.9915,
+        "longitude": 76.2061,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_030",
+        "name": "Alappuzha Beach",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.477,
+        "longitude": 76.3159,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_031",
+        "name": "Vembanad Lake",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.5453,
+        "longitude": 76.37,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_032",
+        "name": "Marari Beach",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.5199,
+        "longitude": 76.3383,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_033",
+        "name": "Kuttanad Backwaters",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.456,
+        "longitude": 76.3483,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_034",
+        "name": "Alleppey Lighthouse",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.4552,
+        "longitude": 76.3092,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_035",
+        "name": "Pathiramanal Island",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.4951,
+        "longitude": 76.2877,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_036",
+        "name": "Krishnapuram Palace",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.5033,
+        "longitude": 76.3376,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_037",
+        "name": "Ambalapuzha Temple",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.5188,
+        "longitude": 76.3052,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_038",
+        "name": "Mannarasala Temple",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.4768,
+        "longitude": 76.3142,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_039",
+        "name": "Revi Karunakaran Museum",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.4676,
+        "longitude": 76.3296,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_040",
+        "name": "St. Andrew's Basilica",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.4802,
+        "longitude": 76.353,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_041",
+        "name": "Punnamada Lake",
+        "state": "Kerala",
+        "city": "Alleppey",
+        "area": "Alleppey",
+        "latitude": 9.4602,
+        "longitude": 76.3501,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_042",
+        "name": "Periyar National Park",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.5809,
+        "longitude": 77.1525,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_043",
+        "name": "Periyar Lake",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.5754,
+        "longitude": 77.1926,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_044",
+        "name": "Abraham's Spice Garden",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.651,
+        "longitude": 77.1654,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_045",
+        "name": "Kadathanadan Kalari Centre",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.5865,
+        "longitude": 77.1214,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_046",
+        "name": "Mudrankalayalam",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.6014,
+        "longitude": 77.1726,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_047",
+        "name": "Elephant Junction",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.5891,
+        "longitude": 77.1436,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_048",
+        "name": "Chellarkovil View Point",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.647,
+        "longitude": 77.2059,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_049",
+        "name": "Pandikuzhi",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.6143,
+        "longitude": 77.1571,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_050",
+        "name": "Mangala Devi Temple",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 9.5966,
+        "longitude": 77.1521,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_051",
+        "name": "Varkala Beach",
+        "state": "Kerala",
+        "city": "Varkala",
+        "area": "Varkala",
+        "latitude": 8.7836,
+        "longitude": 76.721,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_052",
+        "name": "Janardhana Swami Temple",
+        "state": "Kerala",
+        "city": "Varkala",
+        "area": "Varkala",
+        "latitude": 8.7083,
+        "longitude": 76.7521,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_053",
+        "name": "Sivagiri Mutt",
+        "state": "Kerala",
+        "city": "Varkala",
+        "area": "Varkala",
+        "latitude": 8.7738,
+        "longitude": 76.7352,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_054",
+        "name": "Anjengo Fort",
+        "state": "Kerala",
+        "city": "Varkala",
+        "area": "Varkala",
+        "latitude": 8.7749,
+        "longitude": 76.741,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_055",
+        "name": "Kappil Lake",
+        "state": "Kerala",
+        "city": "Varkala",
+        "area": "Varkala",
+        "latitude": 8.7697,
+        "longitude": 76.7065,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_056",
+        "name": "Varkala Cliff",
+        "state": "Kerala",
+        "city": "Varkala",
+        "area": "Varkala",
+        "latitude": 8.7788,
+        "longitude": 76.7058,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_057",
+        "name": "Ponnumthuruthu Island",
+        "state": "Kerala",
+        "city": "Varkala",
+        "area": "Varkala",
+        "latitude": 8.7065,
+        "longitude": 76.7006,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_058",
+        "name": "Baga Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5508,
+        "longitude": 73.7712,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_059",
+        "name": "Calangute Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5534,
+        "longitude": 73.7133,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_060",
+        "name": "Anjuna Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5319,
+        "longitude": 73.7948,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_061",
+        "name": "Aguada Fort",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5603,
+        "longitude": 73.7616,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_062",
+        "name": "Chapora Fort",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.6007,
+        "longitude": 73.7265,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_063",
+        "name": "Vagator Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5871,
+        "longitude": 73.7738,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_064",
+        "name": "Candolim Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5337,
+        "longitude": 73.7112,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_065",
+        "name": "Sinquerim Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5334,
+        "longitude": 73.7931,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_066",
+        "name": "Arambol Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5246,
+        "longitude": 73.7846,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_067",
+        "name": "Morjim Beach",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5554,
+        "longitude": 73.7448,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_068",
+        "name": "Mapusa Market",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5508,
+        "longitude": 73.7332,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_069",
+        "name": "Reis Magos Fort",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5945,
+        "longitude": 73.7907,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_070",
+        "name": "Snow Park",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5583,
+        "longitude": 73.7834,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_071",
+        "name": "Casino Pride",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5633,
+        "longitude": 73.7628,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_072",
+        "name": "Deltin Royale",
+        "state": "Goa",
+        "city": "North Goa",
+        "area": "North Goa",
+        "latitude": 15.5273,
+        "longitude": 73.7522,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_073",
+        "name": "Basilica of Bom Jesus",
+        "state": "Goa",
+        "city": "Old Goa",
+        "area": "Old Goa",
+        "latitude": 15.5043,
+        "longitude": 73.9012,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_074",
+        "name": "Se Cathedral",
+        "state": "Goa",
+        "city": "Old Goa",
+        "area": "Old Goa",
+        "latitude": 15.5282,
+        "longitude": 73.916,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_075",
+        "name": "Church of St. Francis of Assisi",
+        "state": "Goa",
+        "city": "Old Goa",
+        "area": "Old Goa",
+        "latitude": 15.5057,
+        "longitude": 73.9139,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_076",
+        "name": "Archeological Museum",
+        "state": "Goa",
+        "city": "Old Goa",
+        "area": "Old Goa",
+        "latitude": 15.4722,
+        "longitude": 73.9,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_077",
+        "name": "St. Augustine Tower",
+        "state": "Goa",
+        "city": "Old Goa",
+        "area": "Old Goa",
+        "latitude": 15.4895,
+        "longitude": 73.9214,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_078",
+        "name": "Church of Our Lady of the Mount",
+        "state": "Goa",
+        "city": "Old Goa",
+        "area": "Old Goa",
+        "latitude": 15.471,
+        "longitude": 73.9593,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_079",
+        "name": "Colva Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.2787,
+        "longitude": 73.8993,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_080",
+        "name": "Palolem Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.2354,
+        "longitude": 73.9273,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_081",
+        "name": "Dudhsagar Falls",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.3015,
+        "longitude": 73.8952,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_082",
+        "name": "Margao Market",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.3212,
+        "longitude": 73.9213,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_083",
+        "name": "Cabo de Rama Fort",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.3139,
+        "longitude": 73.9536,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_084",
+        "name": "Benaulim Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.2427,
+        "longitude": 73.9303,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_085",
+        "name": "Varca Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.305,
+        "longitude": 73.9123,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_086",
+        "name": "Cavelossim Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.3118,
+        "longitude": 73.9181,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_087",
+        "name": "Agonda Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.2785,
+        "longitude": 73.8764,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_088",
+        "name": "Galgibaga Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.3148,
+        "longitude": 73.9581,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_089",
+        "name": "Butterfly Beach",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.3142,
+        "longitude": 73.929,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_090",
+        "name": "Netravali Wildlife Sanctuary",
+        "state": "Goa",
+        "city": "South Goa",
+        "area": "South Goa",
+        "latitude": 15.325,
+        "longitude": 73.9552,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_091",
+        "name": "Amber Fort",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9022,
+        "longitude": 75.79,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_092",
+        "name": "Hawa Mahal",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9423,
+        "longitude": 75.7502,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_093",
+        "name": "City Palace",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9016,
+        "longitude": 75.7974,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_094",
+        "name": "Jantar Mantar",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9027,
+        "longitude": 75.7419,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_095",
+        "name": "Nahargarh Fort",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9496,
+        "longitude": 75.8051,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_096",
+        "name": "Jaigarh Fort",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.8791,
+        "longitude": 75.7706,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_097",
+        "name": "Albert Hall Museum",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9539,
+        "longitude": 75.8078,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_098",
+        "name": "Birla Mandir",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9305,
+        "longitude": 75.818,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_099",
+        "name": "Galta Ji Temple",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.8676,
+        "longitude": 75.757,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_100",
+        "name": "Chokhi Dhani",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.8827,
+        "longitude": 75.8195,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_101",
+        "name": "Panna Meena ka Kund",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9104,
+        "longitude": 75.8012,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_102",
+        "name": "Patrika Gate",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9196,
+        "longitude": 75.7773,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_103",
+        "name": "Jal Mahal",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.947,
+        "longitude": 75.7497,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_104",
+        "name": "Johari Bazaar",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.8747,
+        "longitude": 75.8108,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_105",
+        "name": "Bapu Bazaar",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "area": "Jaipur",
+        "latitude": 26.9334,
+        "longitude": 75.8205,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_106",
+        "name": "City Palace",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.6245,
+        "longitude": 73.7089,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_107",
+        "name": "Lake Pichola",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.5651,
+        "longitude": 73.7585,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_108",
+        "name": "Jag Mandir",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.6123,
+        "longitude": 73.7301,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_109",
+        "name": "Saheliyon-ki-Bari",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.5833,
+        "longitude": 73.7529,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_110",
+        "name": "Fateh Sagar Lake",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.5605,
+        "longitude": 73.7259,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_111",
+        "name": "Bagore Ki Haveli",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.551,
+        "longitude": 73.6961,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_112",
+        "name": "Sajjangarh Monsoon Palace",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.552,
+        "longitude": 73.6754,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_113",
+        "name": "Jagdish Temple",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.5587,
+        "longitude": 73.6701,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_114",
+        "name": "Vintage Car Museum",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.567,
+        "longitude": 73.7466,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_115",
+        "name": "Shilpgram",
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "area": "Udaipur",
+        "latitude": 24.5655,
+        "longitude": 73.7322,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_116",
+        "name": "Mehrangarh Fort",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.2503,
+        "longitude": 73.0635,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_117",
+        "name": "Jaswant Thada",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.2002,
+        "longitude": 73.0647,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_118",
+        "name": "Umaid Bhawan Palace",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.214,
+        "longitude": 72.993,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_119",
+        "name": "Mandore Gardens",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.2054,
+        "longitude": 73.0505,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_120",
+        "name": "Clock Tower",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.2328,
+        "longitude": 72.9975,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_121",
+        "name": "Sardar Market",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.2635,
+        "longitude": 72.983,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_122",
+        "name": "Rao Jodha Desert Rock Park",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.226,
+        "longitude": 72.9913,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_123",
+        "name": "Kaylana Lake",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "area": "Jodhpur",
+        "latitude": 26.2509,
+        "longitude": 73.0108,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_124",
+        "name": "Jaisalmer Fort",
+        "state": "Rajasthan",
+        "city": "Jaisalmer",
+        "area": "Jaisalmer",
+        "latitude": 26.8784,
+        "longitude": 70.8752,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_125",
+        "name": "Patwon Ki Haveli",
+        "state": "Rajasthan",
+        "city": "Jaisalmer",
+        "area": "Jaisalmer",
+        "latitude": 26.9397,
+        "longitude": 70.8696,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_126",
+        "name": "Sam Sand Dunes",
+        "state": "Rajasthan",
+        "city": "Jaisalmer",
+        "area": "Jaisalmer",
+        "latitude": 26.8754,
+        "longitude": 70.9064,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_127",
+        "name": "Gadisar Lake",
+        "state": "Rajasthan",
+        "city": "Jaisalmer",
+        "area": "Jaisalmer",
+        "latitude": 26.9608,
+        "longitude": 70.8703,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_128",
+        "name": "Tanot Mata Temple",
+        "state": "Rajasthan",
+        "city": "Jaisalmer",
+        "area": "Jaisalmer",
+        "latitude": 26.9132,
+        "longitude": 70.8802,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_129",
+        "name": "Kuldhara Village",
+        "state": "Rajasthan",
+        "city": "Jaisalmer",
+        "area": "Jaisalmer",
+        "latitude": 26.9213,
+        "longitude": 70.8669,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_130",
+        "name": "Desert National Park",
+        "state": "Rajasthan",
+        "city": "Jaisalmer",
+        "area": "Jaisalmer",
+        "latitude": 26.9274,
+        "longitude": 70.8834,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_131",
+        "name": "Kudremukh Trek",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.2768,
+        "longitude": 75.7658,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_132",
+        "name": "Mullayanagiri Peak",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3277,
+        "longitude": 75.8178,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_133",
+        "name": "Baba Budangiri",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3362,
+        "longitude": 75.7422,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_134",
+        "name": "Hebbe Falls",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3384,
+        "longitude": 75.7489,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_135",
+        "name": "Jhari Waterfalls",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3389,
+        "longitude": 75.8032,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_136",
+        "name": "Kalasa",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.2897,
+        "longitude": 75.8117,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_137",
+        "name": "Horanadu Temple",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3323,
+        "longitude": 75.7779,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_138",
+        "name": "Kudremukh National Park",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3005,
+        "longitude": 75.7855,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_139",
+        "name": "Kemmangundi",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.2764,
+        "longitude": 75.7963,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_140",
+        "name": "Z Point",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.346,
+        "longitude": 75.7888,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_141",
+        "name": "Kallathigiri Falls",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.2817,
+        "longitude": 75.7974,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_142",
+        "name": "Bhadra Wildlife Sanctuary",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3599,
+        "longitude": 75.8189,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_143",
+        "name": "Coffee Museum",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.27,
+        "longitude": 75.7502,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_144",
+        "name": "Ayyanakere Lake",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 13.3295,
+        "longitude": 75.7722,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_145",
+        "name": "Lalbagh Botanical Garden",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9652,
+        "longitude": 77.6201,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_146",
+        "name": "Cubbon Park",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9766,
+        "longitude": 77.6368,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_147",
+        "name": "Bangalore Palace",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9539,
+        "longitude": 77.562,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_148",
+        "name": "ISKCON Temple",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9495,
+        "longitude": 77.5727,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_149",
+        "name": "Bannerghatta National Park",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 13.0175,
+        "longitude": 77.5674,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_150",
+        "name": "Visvesvaraya Museum",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9763,
+        "longitude": 77.6034,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_151",
+        "name": "Vidhana Soudha",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9963,
+        "longitude": 77.6167,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_152",
+        "name": "Tipu Sultan Palace",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9952,
+        "longitude": 77.6284,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_153",
+        "name": "Nandi Hills",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 13.0111,
+        "longitude": 77.5886,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_154",
+        "name": "Commercial Street",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "area": "Bangalore",
+        "latitude": 12.9916,
+        "longitude": 77.6034,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_155",
+        "name": "Mysore Palace",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.3206,
+        "longitude": 76.6271,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_156",
+        "name": "Chamundi Hill",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.257,
+        "longitude": 76.6407,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_157",
+        "name": "Brindavan Gardens",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.2836,
+        "longitude": 76.6192,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_158",
+        "name": "St. Philomena's Church",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.2663,
+        "longitude": 76.6402,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_159",
+        "name": "Mysore Zoo",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.3159,
+        "longitude": 76.6421,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_160",
+        "name": "Jaganmohan Palace",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.3226,
+        "longitude": 76.6052,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_161",
+        "name": "Karanji Lake",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.3345,
+        "longitude": 76.6727,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_162",
+        "name": "Ranganathittu Bird Sanctuary",
+        "state": "Karnataka",
+        "city": "Mysore",
+        "area": "Mysore",
+        "latitude": 12.3056,
+        "longitude": 76.6079,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_163",
+        "name": "Virupaksha Temple",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.3312,
+        "longitude": 76.4445,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_164",
+        "name": "Vittala Temple",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.3177,
+        "longitude": 76.4249,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_165",
+        "name": "Lotus Mahal",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.367,
+        "longitude": 76.4252,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_166",
+        "name": "Elephant Stables",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.3476,
+        "longitude": 76.4772,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_167",
+        "name": "Hazara Rama Temple",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.3373,
+        "longitude": 76.4236,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_168",
+        "name": "Matanga Hill",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.3413,
+        "longitude": 76.4942,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_169",
+        "name": "Hemakuta Hill",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.2885,
+        "longitude": 76.4153,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_170",
+        "name": "Tungabhadra River",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.3043,
+        "longitude": 76.4705,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_171",
+        "name": "Hampi Bazaar",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "area": "Hampi",
+        "latitude": 15.338,
+        "longitude": 76.4514,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_172",
+        "name": "Ooty Lake",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.3683,
+        "longitude": 76.671,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_173",
+        "name": "Government Botanical Garden",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.3639,
+        "longitude": 76.6889,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_174",
+        "name": "Doddabetta Peak",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4355,
+        "longitude": 76.7232,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_175",
+        "name": "Pykara Falls",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.3743,
+        "longitude": 76.6727,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_176",
+        "name": "Pykara Lake",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4479,
+        "longitude": 76.6704,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_177",
+        "name": "Rose Garden",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4578,
+        "longitude": 76.713,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_178",
+        "name": "Nilgiri Mountain Railway",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4298,
+        "longitude": 76.6678,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_179",
+        "name": "Tea Factory",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4199,
+        "longitude": 76.7124,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_180",
+        "name": "Avalanche Lake",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4114,
+        "longitude": 76.6892,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_181",
+        "name": "Emerald Lake",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4066,
+        "longitude": 76.6899,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_182",
+        "name": "St. Stephen's Church",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.3792,
+        "longitude": 76.6741,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_183",
+        "name": "Thunder World",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.3618,
+        "longitude": 76.7227,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_184",
+        "name": "Ooty Stone House",
+        "state": "Tamil Nadu",
+        "city": "Ooty",
+        "area": "Ooty",
+        "latitude": 11.4408,
+        "longitude": 76.6727,
+        "tags": [
+            "culture",
+            "history",
+            "education"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_185",
+        "name": "Marina Beach",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.1156,
+        "longitude": 80.2303,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_186",
+        "name": "Kapaleeshwarar Temple",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.0842,
+        "longitude": 80.2438,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_187",
+        "name": "Fort St. George",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.0513,
+        "longitude": 80.2657,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_188",
+        "name": "Santhome Cathedral",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.0343,
+        "longitude": 80.2902,
+        "tags": [
+            "scenic",
+            "nature",
+            "water"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 100,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_189",
+        "name": "Government Museum",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.0613,
+        "longitude": 80.2866,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_190",
+        "name": "Guindy National Park",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.0712,
+        "longitude": 80.2874,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_191",
+        "name": "VGP Universal Kingdom",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.1081,
+        "longitude": 80.2466,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_192",
+        "name": "MGM Dizzee World",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.0415,
+        "longitude": 80.2716,
+        "tags": [
+            "scenic",
+            "relaxation",
+            "water"
+        ],
+        "avg_time_hours": 3,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 80
+    },
+    {
+        "id": "ind_193",
+        "name": "Elliott's Beach",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "area": "Chennai",
+        "latitude": 13.0389,
+        "longitude": 80.2758,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_194",
+        "name": "Meenakshi Amman Temple",
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "area": "Madurai",
+        "latitude": 9.931,
+        "longitude": 78.1365,
+        "tags": [
+            "history",
+            "architecture",
+            "luxury"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 500,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_195",
+        "name": "Thirumalai Nayakkar Mahal",
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "area": "Madurai",
+        "latitude": 9.9265,
+        "longitude": 78.0893,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_196",
+        "name": "Gandhi Memorial Museum",
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "area": "Madurai",
+        "latitude": 9.8857,
+        "longitude": 78.1098,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_197",
+        "name": "Koodal Azhagar Temple",
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "area": "Madurai",
+        "latitude": 9.8773,
+        "longitude": 78.1164,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "ind_198",
+        "name": "Alagar Koyil",
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "area": "Madurai",
+        "latitude": 9.8761,
+        "longitude": 78.1493,
+        "tags": [
+            "general"
+        ],
+        "avg_time_hours": 2,
+        "avg_cost_per_person": 200,
+        "group_friendly": true,
+        "popularity_score": 70
+    },
+    {
+        "id": "eco_199",
+        "name": "Ali Bedni Bugyal Trek",
+        "state": "Uttarakhand",
+        "city": "Chamoli",
+        "area": "Chamoli",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 48.0,
+        "avg_cost_per_person": 150.0,
+        "group_friendly": true,
+        "popularity_score": 68
+    },
+    {
+        "id": "eco_200",
+        "name": "Deoriatal Chandrashila Trek",
+        "state": "Uttarakhand",
+        "city": "Rudraprayag",
+        "area": "Rudraprayag",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 36.0,
+        "avg_cost_per_person": 200.0,
+        "group_friendly": true,
+        "popularity_score": 61
+    },
+    {
+        "id": "eco_201",
+        "name": "Har Ki Dun Trek",
+        "state": "Uttarakhand",
+        "city": "Uttarkashi",
+        "area": "Uttarkashi",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 72.0,
+        "avg_cost_per_person": 250.0,
+        "group_friendly": true,
+        "popularity_score": 61
+    },
+    {
+        "id": "eco_202",
+        "name": "Valley of Flowers",
+        "state": "Uttarakhand",
+        "city": "Chamoli",
+        "area": "Chamoli",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 6.0,
+        "avg_cost_per_person": 150.0,
+        "group_friendly": true,
+        "popularity_score": 72
+    },
+    {
+        "id": "eco_203",
+        "name": "Periyar Nature Walk",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 3.0,
+        "avg_cost_per_person": 300.0,
+        "group_friendly": true,
+        "popularity_score": 74
+    },
+    {
+        "id": "eco_204",
+        "name": "Bamboo Rafting Periyar",
+        "state": "Kerala",
+        "city": "Thekkady",
+        "area": "Thekkady",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 8.0,
+        "avg_cost_per_person": 2000.0,
+        "group_friendly": true,
+        "popularity_score": 74
+    },
+    {
+        "id": "eco_205",
+        "name": "Eravikulam Trail",
+        "state": "Kerala",
+        "city": "Munnar",
+        "area": "Munnar",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 4.0,
+        "avg_cost_per_person": 125.0,
+        "group_friendly": true,
+        "popularity_score": 60
+    },
+    {
+        "id": "eco_206",
+        "name": "Mawphlang Sacred Grove",
+        "state": "Meghalaya",
+        "city": "East Khasi Hills",
+        "area": "East Khasi Hills",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 2.0,
+        "avg_cost_per_person": 100.0,
+        "group_friendly": true,
+        "popularity_score": 69
+    },
+    {
+        "id": "eco_207",
+        "name": "Agumbe Rainforest Trail",
+        "state": "Karnataka",
+        "city": "Shimoga",
+        "area": "Shimoga",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 5.0,
+        "avg_cost_per_person": 50.0,
+        "group_friendly": true,
+        "popularity_score": 60
+    },
+    {
+        "id": "eco_208",
+        "name": "Kudremukh Trek",
+        "state": "Karnataka",
+        "city": "Chikkamagaluru",
+        "area": "Chikkamagaluru",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 8.0,
+        "avg_cost_per_person": 200.0,
+        "group_friendly": true,
+        "popularity_score": 73
+    },
+    {
+        "id": "eco_209",
+        "name": "Silent Valley Trail",
+        "state": "Kerala",
+        "city": "Palakkad",
+        "area": "Palakkad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 5.0,
+        "avg_cost_per_person": 100.0,
+        "group_friendly": true,
+        "popularity_score": 64
+    },
+    {
+        "id": "eco_210",
+        "name": "Nandadevi Biosphere Trail",
+        "state": "Uttarakhand",
+        "city": "Chamoli",
+        "area": "Chamoli",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 10.0,
+        "avg_cost_per_person": 500.0,
+        "group_friendly": true,
+        "popularity_score": 65
+    },
+    {
+        "id": "eco_211",
+        "name": "Sundarbans Boat Safari",
+        "state": "West Bengal",
+        "city": "South 24 Parganas",
+        "area": "South 24 Parganas",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 12.0,
+        "avg_cost_per_person": 500.0,
+        "group_friendly": true,
+        "popularity_score": 60
+    },
+    {
+        "id": "eco_212",
+        "name": "Kanha Nature Trail",
+        "state": "Madhya Pradesh",
+        "city": "Mandla",
+        "area": "Mandla",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 3.0,
+        "avg_cost_per_person": 200.0,
+        "group_friendly": true,
+        "popularity_score": 67
+    },
+    {
+        "id": "eco_213",
+        "name": "Jim Corbett Jeep Safari",
+        "state": "Uttarakhand",
+        "city": "Nainital",
+        "area": "Nainital",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "tags": [
+            "eco",
+            "nature",
+            "trekking"
+        ],
+        "avg_time_hours": 4.0,
+        "avg_cost_per_person": 1500.0,
+        "group_friendly": true,
+        "popularity_score": 67
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "city": "Alleppey",
+        "state": "Kerala",
+        "budget_per_night": 955,
+        "standard_per_night": 1353,
+        "luxury_per_night": 5293
+    },
+    {
+        "city": "Amritsar",
+        "state": "Punjab",
+        "budget_per_night": 1086,
+        "standard_per_night": 2035,
+        "luxury_per_night": 3645
+    },
+    {
+        "city": "Hampi",
+        "state": "Karnataka",
+        "budget_per_night": 586,
+        "standard_per_night": 923,
+        "luxury_per_night": 3011
+    },
+    {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "budget_per_night": 1287,
+        "standard_per_night": 1852,
+        "luxury_per_night": 9705
+    },
+    {
+        "city": "Kochi",
+        "state": "Kerala",
+        "budget_per_night": 1564,
+        "standard_per_night": 2053,
+        "luxury_per_night": 4871
+    },
+    {
+        "city": "Madikeri",
+        "state": "Karnataka",
+        "budget_per_night": 713,
+        "standard_per_night": 2394,
+        "luxury_per_night": 8794
+    },
+    {
+        "city": "Madurai",
+        "state": "Tamil Nadu",
+        "budget_per_night": 1245,
+        "standard_per_night": 2162,
+        "luxury_per_night": 9006
+    },
+    {
+        "city": "Manali",
+        "state": "Himachal Pradesh",
+        "budget_per_night": 516,
+        "standard_per_night": 5578,
+        "luxury_per_night": 8904
+    },
+    {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "budget_per_night": 842,
+        "standard_per_night": 1847,
+        "luxury_per_night": 7383
+    },
+    {
+        "city": "Munnar",
+        "state": "Kerala",
+        "budget_per_night": 966,
+        "standard_per_night": 2506,
+        "luxury_per_night": 10443
+    },
+    {
+        "city": "Old Goa",
+        "state": "Goa",
+        "budget_per_night": 661,
+        "standard_per_night": 1428,
+        "luxury_per_night": 1709
+    },
+    {
+        "city": "Ooty",
+        "state": "Tamil Nadu",
+        "budget_per_night": 866,
+        "standard_per_night": 2366,
+        "luxury_per_night": 5852
+    },
+    {
+        "city": "Rishikesh",
+        "state": "Uttarakhand",
+        "budget_per_night": 768,
+        "standard_per_night": 1940,
+        "luxury_per_night": 7329
+    },
+    {
+        "city": "Varkala",
+        "state": "Kerala",
+        "budget_per_night": 1633,
+        "standard_per_night": 2729,
+        "luxury_per_night": 7435
+    }
+]

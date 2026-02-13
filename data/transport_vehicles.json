@@ -1,0 +1,17 @@
+[
+    {
+        "vehicle": "Bus",
+        "capacity": 45,
+        "base_cost_per_day": 18000
+    },
+    {
+        "vehicle": "Tempo Traveller",
+        "capacity": 12,
+        "base_cost_per_day": 7500
+    },
+    {
+        "vehicle": "Van",
+        "capacity": 8,
+        "base_cost_per_day": 5000
+    }
+]

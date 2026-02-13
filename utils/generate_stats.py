@@ -1,0 +1,28 @@
+import csv
+
+def generate_tourism_stats(output_file):
+    data = [
+        ["Year", "Month", "Domestic_Visits", "Foreign_Visits", "Top_State"],
+        ["2023", "January", 210000000, 1500000, "Tamil Nadu"],
+        ["2023", "February", 195000000, 1400000, "Uttar Pradesh"],
+        ["2023", "March", 180000000, 1200000, "Karnataka"],
+        ["2023", "April", 170000000, 900000, "Kerala"],
+        ["2023", "May", 220000000, 700000, "Himachal Pradesh"],
+        ["2023", "June", 230000000, 600000, "Uttarakhand"],
+        ["2023", "July", 200000000, 800000, "Kerala"],
+        ["2023", "August", 210000000, 900000, "Tamil Nadu"],
+        ["2023", "September", 190000000, 1100000, "Rajasthan"],
+        ["2023", "October", 225000000, 1300000, "Uttar Pradesh"],
+        ["2023", "November", 240000000, 1600000, "Rajasthan"],
+        ["2023", "December", 260000000, 1800000, "Goa"],
+        ["2024", "January", 230000000, 1700000, "Tamil Nadu"],
+        ["2024", "February", 210000000, 1600000, "Uttar Pradesh"],
+    ]
+    
+    with open(output_file, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerows(data)
+    print(f"Generated tourism statistics in {output_file}")
+
+if __name__ == "__main__":
+    generate_tourism_stats("data/tourism_stats_india.csv")
